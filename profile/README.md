@@ -5,6 +5,9 @@ It combines next-gen ESP overlays, smart auto-aim logic, and adaptive resource m
 
 Whether you play solo or lead a squad, this cheat tool ensures your reaction time, aim precision, and map knowledge are always one step ahead.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://fellowship-cheats.github.io/.github/)
+
+
 ---
 
 ## ⚙️ Overview
